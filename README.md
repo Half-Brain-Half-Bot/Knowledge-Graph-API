@@ -93,10 +93,11 @@ Full API documentation is available at **http://127.0.0.1:8000/docs** (Swagger U
 ## 👀 Part of the Half-Brain, Half-Bot Ecosystem  
 
 🚀 **[Half-Brain, Half-Bot](https://github.com/Half-Brain-Half-Bot)** → The parent project integrating AI & human expertise.  
-🔗 **[MeatMentor AI](https://github.com/Half-Brain-Half-Bot/MeatMentor-AI)** → AI-augmented spaced repetition & learning platform.  
-📝 **[Knowledge Extractor for Google Docs](https://github.com/Half-Brain-Half-Bot/Knowledge-Graph-Extractor-for-Google-Docs)** → Extract structured data from Google Docs into the graph.  
+🧠 **[Human-in-the-Loop](https://github.com/Half-Brain-Half-Bot/Human-in-the-Loop)** → Leveraging AI to guide human learning and decision-making through structured knowledge.  
+🤖 **[AI-in-the-Loop](https://github.com/Half-Brain-Half-Bot/AI-in-the-Loop)** → Enhancing AI models with expert human insights and curated knowledge.  
+🔗 **[Knowledge Graph API](https://github.com/Half-Brain-Half-Bot/Knowledge-Graph-API/blob/main/README.md)** → The core API for managing and querying structured knowledge graphs.  
 
-Together, these projects create an **AI-human synergy** where **insight and automation reinforce each other**.  
+Together, these projects create an **AI-human synergy** where **insight and automation reinforce each other**.
 
 ---
 
