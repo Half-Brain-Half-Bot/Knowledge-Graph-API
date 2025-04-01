@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "Knowledge Object: Cardiovascular Disease KO",
+      "@type": "Thing",
+      "relatedTo": [
+        "Knowledge Object: Cardiovascular Disease, Zeta-Potential, and Thymic Involution KO",
+        "Knowledge Object: Cardiovascular Disease and the Protective Gel Layer Hypothesis KO"
+      ]
+    },
+    {
+      "@id": "Knowledge Object: Cardiovascular Disease, Zeta-Potential, and Thymic Involution KO",
+      "@type": "Thing"
+    },
+    {
+      "@id": "Knowledge Object: Cardiovascular Disease and the Protective Gel Layer Hypothesis KO",
+      "@type": "Thing"
+    }
+  ]
+}
